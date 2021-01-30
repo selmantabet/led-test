@@ -25,8 +25,8 @@ int main() {
     
     To solve this, the Active Low LEDs (1 and 2) were switched to Active
     High by inverting their output, while the input value of a was inverted and
-    put in place of the original a value in the LED definitions
-    .
+    put in place of the original a value in the LED definitions.
+    
     The result would then match the aforementioned condition and the
     desired output is obtained.
     */
